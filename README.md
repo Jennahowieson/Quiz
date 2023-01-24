@@ -1,21 +1,21 @@
 # Quiz
 
-1. What does the ___word___ 'polymorphism' mean?
+**1. What does the ___word___ 'polymorphism' mean?**
 
-Polymorphism is the principle by which an object can take on multiple forms or properties. For example, be considered as its Class, Parent Class or any interfaces that it takes on. 
+Polymorphism is the principle by which an object can take on multiple forms or properties. 
 
-2. What does it mean when we apply polymorphism to OO design? Give a simple Java example.
-An example of OO polymorphism would be a car taking on th eproperties and methods of its class Car, as well as any inherited methods of its Parent Class Vehicle.
+**2. What does it mean when we apply polymorphism to OO design? Give a simple Java example.**
 
+In OO design, polymorphism means the object can be considered as its Class, Parent Class or any Interfaces that it takes on. An example of OO polymorphism would be a car taking on the properties and methods of its class Car, as well as any inherited methods of its Parent Class Vehicle and an interface of IDrive.
 
-3. What can we use to implement polymorphism in Java?
+**3. What can we use to implement polymorphism in Java?**
+
 Classes & Interfaces
 
 4. How many 'forms' can an object take when using polymorphism?
-
+Many
 
 5. Give an example of when you could use polymorphism?
-
 Polymorphism is useful in strongly typed languages where only one Type of object can be returned. Therefore using an interface or Parent class to group multiple options together allows more flexibility in method outputs and iterables such as such as ArrayLists & Hashmaps. 
 
 
