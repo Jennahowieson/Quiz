@@ -14,7 +14,9 @@ Classes & Interfaces
 4. How many 'forms' can an object take when using polymorphism?
 
 
-5. Give an example of when you could use polymorphism.
+5. Give an example of when you could use polymorphism?
+
+Polymorphism is useful in strongly typed languages where only one Type of object can be returned. Therefore using an interface or Parent class to group multiple options together allows more flexibility in method outputs and iterables such as such as ArrayLists & Hashmaps. 
 
 
 # Composition and Aggregation
