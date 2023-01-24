@@ -31,7 +31,10 @@ Composition in Java could look like building a chair out of a Base and Legs. Ind
 Aggregation is the bringing together of objects that are loosely related, but can also operate independently of eachother (ie a collection of rollercoasters to make a Theme Park), where as the components used in composition are tightly linked and rely on being part of a bigger main object to operate and make sense. 
 
 **9. What is/are the advantage(s) of using composition/aggregation?**
+Composition & aggregation allow the easy following of the single responsibility principle in OO Programming, ensuring the methods of each part of the overall program are handled and tested in seperate files. 
 
 **10. When using composition, when an object is destroyed, what happens to all the objects it is composed of?**
+the whole object is destroyed
 
 **11. When using aggregation, when an object is destroyed, what happens to all the objects it is composed of?** 
+the larger object remains, without that one destroyed object.
